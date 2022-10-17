@@ -81,7 +81,7 @@
   
   @media all and (max-width: 768px) {
     h1 {
-      font-size: calc(1.5rem * var(--smaller));
+      font-size: calc(2.3rem * var(--smaller));
     }
     
     li {
